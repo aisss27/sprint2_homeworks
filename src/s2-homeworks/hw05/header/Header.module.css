@@ -2,7 +2,14 @@
 }
 
 .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 18px 70px;
+    z-index: 900;
 }
 
 .header h1 {
+    font-family: Montserrat, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
 }
